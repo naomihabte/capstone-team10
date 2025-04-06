@@ -45,7 +45,8 @@ Out of those 11 repositories, here are the links of the repositories that we hav
 
 - Front end -> Naomi and Mariya
     https://github.com/SEG4910CapstoneProject/crh-CyberReportHub-Site.git
-    ** final branch: practice_main
+
+  ** final branch: practice_main
   
 - Databases -> Kaveri & Amani
     https://github.com/SEG4910CapstoneProject/crh-database.git
@@ -58,6 +59,7 @@ Out of those 11 repositories, here are the links of the repositories that we hav
 
 - OpenCTI Integration -> Amani
     https://github.com/SEG4910CapstoneProject/crh-open-cti-integration.git
+
 Each repository has their own readme describing the purpose of the repository and how to run it.
 
 If you wish to run the entire project, please follow the instructions in the crh-developper read me. Here is the link for that repository:
