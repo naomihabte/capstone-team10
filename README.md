@@ -52,7 +52,7 @@ Out of those 11 repositories, here are the links of the repositories that we hav
     https://github.com/SEG4910CapstoneProject/crh-database.git
 
 - Rest-Api -> Kaveri
-   https://github.com/SEG4910CapstoneProject/crh-rest-api.git
+   https://github.com/SEG4910CapstoneProject/crh-rest-api.git **(branch kaveri-getting-articles-by-type)**
 
 - Rss-Feed Source -> Amani
     https://github.com/SEG4910CapstoneProject/crh-rss-feed-source.git
